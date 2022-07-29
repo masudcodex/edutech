@@ -33,7 +33,12 @@ body {
     font-size: 47px;
     font-weight: 600;
 }
-
+.edutech-btn {
+    font-size: 15px;
+    font-weight: 500;
+    background-color: #289BDE;
+    padding: 10px 25px;
+}
 /* Popular Courses */
 
 .courses-heading {
@@ -49,6 +54,28 @@ body {
     font-size: 15px;
     color: #289BDE;
     font-weight: 600;
+}
+.register-now{
+    background-color: #289BDE;
+    padding: 60px 55px;
+}
+.heading {
+    font-size: 35px;
+    font-weight: 600;
+    color: #ffffff;
+}
+.description {
+    font-size: 16px;
+    color: #F4F4F4;
+}
+.edutech-reg-btn{
+    font-size: 15px;
+    font-weight: 600;
+    color: #289BDE;
+    padding: 15px 50px;
+}
+.edutech-reg-btn:hover{
+    color: #289BDE;
 }
 
 @media screen and (max-width: 767px) {
