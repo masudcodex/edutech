@@ -112,8 +112,14 @@ footer address {
 }
 
 @media screen and (max-width: 767px) {
+    .carousel-heading {
+        font-size: 35px;
+    }
+    .carousel-caption p {
+        font-size: 14px;
+    }
     .carousel-caption {
-        top: 4%;
+        top: 3%;
         padding-left: 10px;
         padding-right: 10px;
     }
@@ -121,7 +127,7 @@ footer address {
 
 @media screen and (min-width: 768px) and (max-width:991px) {
     .carousel-caption {
-        top: 15%;
+        top: 10%;
         padding-left: 60px;
         padding-right: 60px;
     }
