@@ -82,7 +82,7 @@ body {
 }
 
 /* Faq Section */
-.faq-heading {
+.faq-heading, .review-heading {
     font-weight: 600;
 }
 .faq-sub-heading {
@@ -92,6 +92,23 @@ body {
 .accordion-button {
     font-weight: 600;
     padding: 18px 30px;
+}
+
+/* footer */
+footer {
+    background-color: #161616;
+    color: #ffffff;
+}
+footer a{
+    color: #E8E8E8;
+    font-size: 15px;
+    text-decoration: none;
+}
+footer address {
+    color: #E8E8E8;
+    font-size: 15px;
+    margin: 0;
+    text-align: center;
 }
 
 @media screen and (max-width: 767px) {
