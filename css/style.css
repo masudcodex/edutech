@@ -55,6 +55,9 @@ body {
     color: #289BDE;
     font-weight: 600;
 }
+
+/* Register Now Section */
+
 .register-now{
     background-color: #289BDE;
     padding: 60px 55px;
@@ -76,6 +79,19 @@ body {
 }
 .edutech-reg-btn:hover{
     color: #289BDE;
+}
+
+/* Faq Section */
+.faq-heading {
+    font-weight: 600;
+}
+.faq-sub-heading {
+    font-size: 16px;
+    color: #777777;
+}
+.accordion-button {
+    font-weight: 600;
+    padding: 18px 30px;
 }
 
 @media screen and (max-width: 767px) {
